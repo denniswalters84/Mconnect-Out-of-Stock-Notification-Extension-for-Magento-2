@@ -1,2 +1,13 @@
-# Mconnect-Out-of-Stock-Notification-Extension-for-Magento-2
-Mconnect Out of Stock Notification Extension for Magento 2 helps you to manage out stock products in your inventory. The extension will provide an option for customers to subscribe for the out of stock products via email notification when they are available for purchase. Also, it will send a notification to the admin of the store.
+<p>Want your customer to get notified when the product they need is not in stock? Operating the Magento eCommerce store is not a thing everyone can do. Because there are so many jobs and so many things to take care of simultaneously. And one of those things is to take care of your product inventory. Many times, it just so happens that your products may go out of stock and it may be one of the best sellers on your Magento 2 store. It may take a few days to make that product available back in your store. Now, your customers may have to wait without any notice when it will come back. But you can resolve that uncertainty by integrating a module that notifies when products are back in stock.</p>
+<p><a href="https://www.mconnectmedia.com/out-of-stock-alert-magento2.html"><strong>Mconnect Out of Stock Notification Extension for Magento 2</strong></a> is useful when admin of the store has to notify their customers about out of stock products and when they will be back in stock via an email notification. The extension helps acknowledge customers when there is any movement for out of stock products. This makes it easy for customers to track the product they are looking to buy. Whenever any product goes out of stock, the extension will notify it on the product page and provides a facility to customers to subscribe for more updates. And when the product comes back in stock, it will send out a notification to all the subscribed customers. Also, the extension has feature that informs the admin of the store about out of stock products via an email notification.</p>
+<p><strong>Features of Mconnect Out of Stock Notification Extension for Magento 2:</strong></p>
+<ul>
+<li>The extension will show the availability of the product to users on the frontend.</li>
+<li>It is a subscription-based extension, that will notify your customers when out of the stock product is available for purchase.</li>
+<li>It works with all product types such as simple, grouped, virtual, bundled, downloadable, and configurable as well.</li>
+<li>Manually add a subscription at any time.</li>
+<li>Manage your customers by giving them the details about out of stock products when they are in stock.</li>
+<li>Subscribed users will get an instant notification via email once the product is available for purchase.</li>
+<li>The extension will also send a notification to admin when the stock of products gets low.</li>
+</ul>
+<p>For more such <a href="https://www.mconnectmedia.com/magento-2-extensions"><strong>Magento 2 Extensions</strong></a> visit <a href="https://www.mconnectmedia.com"><strong>Mconnectmedia.com</strong></a></p>
